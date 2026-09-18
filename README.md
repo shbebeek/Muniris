@@ -10,8 +10,8 @@ A couch co-op multiplayer shooter built using Unity. Has a mix of RPG puzzle-sol
    - Also recommended to close all other applications.
 
 ### Multiplayer Setup:
-Connect a controller to play on the left-hand side of the screen, and play with a keyboard and mouse to play on the right side.  
-If you just want to play single-player use a keyboard to control the right camera.
+- Connect a controller to play on the left-hand side of the screen, and play with a keyboard and mouse to play on the right side.  
+- If you just want to play single-player use a keyboard to control the right camera.
 
 ### Features / How To Play
 1. Players have 2 hands, a left and right hand.
@@ -59,3 +59,33 @@ If you just want to play single-player use a keyboard to control the right camer
 - Crawl [D-Pad Down]
 - Inventory [+]
 - Dash [Button North] (need to get upgrade in order to use)
+
+Acknowledgements:
+1. Mister Taft Creates for help with learning Scriptable Objects
+2. Jimmy Vegas for help with learning Unity's Input System
+3. Unity Asset Packs:
+   - Décrepit Dungeon LITE
+   - Sci Fi Turrets
+   - Fantasy Skybox FREE
+   - FPS Scenery
+   - Modular Castle
+   - Julien Tonsuso's Modular Fantasy Bridges
+   - Rocks and Boulders 2
+   - Naasz Art's Fantasy House
+   - RPR_Loot_Pack
+   - TheWoodCabin
+   - Toby Fredson
+   - Unity Technology's Particle Pack
+   - Winter House
+   - WaterWorks
+   - Wood Set Pieces
+   - RSG_UnderWater_Pack
+   - SandClock
+   - RustKey
+   - LoafbrrAssets
+   - FinottiGames
+   - ALP_Assets
+   - ANGRY MESH's Snowman
+   - #NVJOB Boids
+   - PurePoly's Free Fantasy RPG Weapons
+4. The Stardance community
