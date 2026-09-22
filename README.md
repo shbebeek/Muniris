@@ -2,9 +2,9 @@
 A couch co-op multiplayer shooter built using Unity. Has a mix of RPG puzzle-solving and action mechanics, combined with semi-precise platforming.
 
 ### Releases:
-1. Browser release for Windows and Linux users: https://gamejolt.com/games/muniris-online/1100476
-   - Press play and wait for the resulting tab to load, then play the game.
-   - Recommended to close all other tabs/applications, as the game is expensive on your computer.
+1. Download for Windows here: https://gamejolt.com/games/muniris-windows/1100476
+   - Click download and run the Muniris.exe in order to play the game.
+   - Seriously recommended to close all other applications.
 3. Download for Mac here: https://gamejolt.com/games/muniris/1100442
    - Click download and run the file in order to play the game.
    - Also recommended to close all other applications.
